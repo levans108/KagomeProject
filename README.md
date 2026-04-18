@@ -4,9 +4,10 @@ This repository contains the Mathematica code used to generate the numerical res
 
 ## Contents
 
-- `Kagome2.nb` — main notebook containing the iterative solver, critical interaction calculations, and phase diagram generation
+## Repository contents
 
--'Kagome dispersion relation - band structure.nb' - Notebook in which dispersion relation and band structure were conceived
+- `Kagome2.nb` — main notebook containing the iterative solver, critical interaction calculations, and phase diagram generation  
+- `Kagome dispersion relation + band structure.nb` — notebook used to derive and visualise the dispersion relation and band structure
 
 ## Description
 
